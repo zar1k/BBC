@@ -1,7 +1,7 @@
 <#import "parts/common.ftl" as c>
 
 <@c.page>
-List of user
+List of users
 
 <table>
     <thead>
